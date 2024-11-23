@@ -9,6 +9,7 @@ Step 1: Clone repo
 ``` 
 git clone <link repo>
 
+
 Step 2: Instal dependencies
 ```
 npm install
